@@ -1,3 +1,9 @@
+If you are interested in trying it out, you can find the online version here:
+
+convert_orfs_to_genes(orf_list, url ="https://github.com/MLHernaez/candida-gene-tools/ main/candida_gene_mapping.csv"
+
+
+
 # Candida Gene Mapper 🧬
 
 Este repositorio contiene una herramienta sencilla en R para convertir identificadores de ORF (`orf19.xxxx`) de *Candida albicans* a nombres de genes legibles.
