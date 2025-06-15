@@ -1,4 +1,4 @@
-CGD;ORF-ID;KEGG;Gene-Name;UNIPROT;Descripción1;Descripción2
+CGD;ORF_ID;KEGG;Gene_Name;UNIPROT;DescripciÃ³n1;DescripciÃ³n2
 C3_06470W_A;orf19.7436;CAALFM_C306470WA;AAF1;-;Adherence factor (Adhesion and aggregation mediating surface antigen);
 C2_06970W_A;orf19.2251;CAALFM_C206970WA;AAH1;-;Adenine deaminase (ADE) (EC 3.5.4.2) (Adenine aminohydrolase) (AAH);
 C3_03990C_A;orf19.2810;CAALFM_C303990CA;AAP1;A0A1D8PJU0;;Aap1p
