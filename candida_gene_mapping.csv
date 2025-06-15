@@ -1,4 +1,4 @@
-CGD;ORF_ID;KEGG;Gene_Name;UNIPROT;DescripciÃ³n1;DescripciÃ³n2
+CGD;ORF_ID;KEGG;Gene_Name;UNIPROT;Descripción1;Descripción2
 C3_06470W_A;orf19.7436;CAALFM_C306470WA;AAF1;-;Adherence factor (Adhesion and aggregation mediating surface antigen);
 C2_06970W_A;orf19.2251;CAALFM_C206970WA;AAH1;-;Adenine deaminase (ADE) (EC 3.5.4.2) (Adenine aminohydrolase) (AAH);
 C3_03990C_A;orf19.2810;CAALFM_C303990CA;AAP1;A0A1D8PJU0;;Aap1p
@@ -57,7 +57,7 @@ C1_03480C_A;orf19.3050;CAALFM_C103480CA;AGE1;A0A1D8PD25; Putative GTPase activat
 C2_09580W_A;orf19.1396;CAALFM_C209580WA;AGE2;A0A1D8PIG1; Protein of unknown function;Age2p
 C1_02260C_A;orf19.3683;CAALFM_C102260CA;AGE3;A0A1D8PCP6; Putative ADP-ribosylation factor GTPase activating protein, functional ortholog of S. cerevisiae GCS1;Age3p
 C1_13760W_A;orf19.5013;CAALFM_C113760WA;AGM1;Q5AKW4; Phosphoacetylglucosamine mutase (N-acetylglucosamine-phosphate mutase);Phosphoacetylglucosamine mutase (PAGM) (EC 5.4.2.3) (Acetylglucosamine phosphomutase) (N-acetylglucosamine-phosphate mutase)
-C4_06340W_A;orf19.2903;CAALFM_C406340WA;AGO1;A0A1D8PMK0; Putative Argonaute protein involved in RNA silencing;Ago1p
+C4_06340W_A;orf19.2903;CAALFM_C406340WA;ago-01;A0A1D8PMK0; Putative Argonaute protein involved in RNA silencing;Ago1p
 C4_01100C_A;orf19.4679;CAALFM_C401100CA;AGP2;Q5AMG7;;Agp2p
 C4_04840C_A;orf19.3795;CAALFM_C404840CA;AGP3;Q5A695;;Agp3p
 CR_10270C_A;orf19.7602;CAALFM_CR10270CA;AHA1;-; Putative Hsp90p co-chaperone;#N/D
@@ -5600,7 +5600,7 @@ C3_04760C_A;orf19.5938;CAALFM_C304760CA;SEN1;Q5ANG6;;Putative DNA/RNA helicase
 C1_03900W_A;orf19.4464;CAALFM_C103900WA;SEN15;A0A1D8PD63;;Sen15p
 C4_02640C_A;orf19.2735;CAALFM_C402640CA;SEN2;Q5AF73;;tRNA-splicing endonuclease subunit Sen2 (EC 4.6.1.16)
 CR_06660W_A;orf19.700;CAALFM_CR06660WA;SEO1;-;;Putative permease
-C1_02230W_A;orf19.3680;CAALFM_C102230WA;SEP7;-;;Snt1p
+C1_02230W_A;orf19.3680;CAALFM_C102230WA;sep-07;-;;Snt1p
 C2_06210C_A;orf19.5484;CAALFM_C206210CA;SER1;Q59P52;;Phosphoserine aminotransferase (EC 2.6.1.52)
 C2_02690W_A;orf19.5838;CAALFM_C202690WA;SER2;Q5A0H3;;Phosphoserine phosphatase
 C1_12030W_A;orf19.5263;CAALFM_C112030WA;SER33;Q5A3K7;;D-3-phosphoglycerate dehydrogenase (EC 1.1.1.399) (EC 1.1.1.95)
